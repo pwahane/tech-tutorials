@@ -17,6 +17,7 @@ III. Key Concepts in Kubernetes: Unveiling the Architecture of Brilliance
 - C. Labels and Selectors: Unlock the power of labels and selectors, the secret sauce that Kubernetes employs for efficient grouping and management of resources.
 - D. Replication Controllers: Witness the elegance of replication controllers as they ensure the desired number of pods are running and maintain the desired state of your applications.
 - E. Ingress and Load Balancing: Embrace the magic of ingress and load balancing, enabling external access to your applications and ensuring optimal distribution of traffic.
+
 IV. Setting Up Kubernetes Cluster: Building the Foundation of Innovation
 
 - A. Installation Options: Choose your path to Kubernetes enlightenment. Explore installation options such as Minikube and kubeadm, which pave the way for your journey into the world of Kubernetes.
