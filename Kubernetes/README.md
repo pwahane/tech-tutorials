@@ -6,9 +6,9 @@ I. [Introduction: Unleash the Power of Kubernetes](introduction.md)
 
 II. [Understanding Containerization: The Pioneering Era of Simplicity](understanding_containerization.md)
 
-- A. Enter the World of Containers: Embark on a voyage into the realm of containers, where applications are encapsulated in lightweight and portable units. Experience the unprecedented simplicity and efficiency that containers bring to the table.
-- B. Mastering the Symphony: Unveil the secrets of container orchestration and witness the symphony of harmony and efficiency it conducts. Marvel at how Kubernetes orchestrates and manages containers, eliminating the complexities of manual container management.
-- C. Overcoming Challenges: Uncover the challenges that arise when managing containers without Kubernetes. Brace yourself for a captivating exploration of the pain points that Kubernetes elegantly solves, freeing you from the burdens of container management.
+- A. [Enter the World of Containers](understanding_containerization.md#a-enter-the-world-of-containers): Embark on a voyage into the realm of containers, where applications are encapsulated in lightweight and portable units. Experience the unprecedented simplicity and efficiency that containers bring to the table.
+- B. [Mastering the Symphony](understanding_containerization.md#b-mastering-the-symphony): Unveil the secrets of container orchestration and witness the symphony of harmony and efficiency it conducts. Marvel at how Kubernetes orchestrates and manages containers, eliminating the complexities of manual container management.
+- C. [Overcoming Challenges](understanding_containerization.md#c-overcoming-challenges): Uncover the challenges that arise when managing containers without Kubernetes. Brace yourself for a captivating exploration of the pain points that Kubernetes elegantly solves, freeing you from the burdens of container management.
 
 III. Key Concepts in Kubernetes: Unveiling the Architecture of Brilliance
 
