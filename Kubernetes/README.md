@@ -4,7 +4,7 @@ I. [Introduction: Unleash the Power of Kubernetes](introduction.md)
 - B. [Ignite the Spark of Innovation](introduction.md#ignite-the-spark-of-innovation): Explore why Kubernetes has become the heartbeat of modern software development. Discover how it has revolutionized application deployment and orchestration, empowering organizations to scale effortlessly and conquer new frontiers.
 - C. [Unleashing the Potential](introduction.md#unleashing-the-potential): Delve into the remarkable benefits of harnessing Kubernetes for your applications. From enhanced scalability and fault tolerance to streamlined operations and accelerated development cycles, witness firsthand the transformative power of Kubernetes.
 
-II. Understanding Containerization: The Pioneering Era of Simplicity
+II. [Understanding Containerization: The Pioneering Era of Simplicity](understanding_containerization.md)
 
 - A. Enter the World of Containers: Embark on a voyage into the realm of containers, where applications are encapsulated in lightweight and portable units. Experience the unprecedented simplicity and efficiency that containers bring to the table.
 - B. Mastering the Symphony: Unveil the secrets of container orchestration and witness the symphony of harmony and efficiency it conducts. Marvel at how Kubernetes orchestrates and manages containers, eliminating the complexities of manual container management.
